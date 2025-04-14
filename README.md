@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Hemanth 👋
 
-<!--
-**HEMANTH-YEDAKULA/HEMANTH-YEDAKULA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year B.Tech CSE student | Data Science Specialization  
+💻 Aspiring Software Developer | Exploring Data science and machine learning 
+🌱 Currently building DSA skills in Java, and solving Leetcode  
+📊 Exploring Python + SQL for Data Projects  
+🚀 Passionate about building real-world applications  
+📫 Connect with me: https://www.linkedin.com/in/yedakula-hemanth-b344aa337/ 
 
-Here are some ideas to get you started:
+## 💡 Tech Stack
+- 💻 Languages: Java, Python, SQL  
+- 📊 Tools: Power BI, Pandas, MySQL, Git  
+- 🧠 Concepts: DSA, DBMS, OS, OOP  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Projects
+- Cricket data analytics-powerbi,python,excel,webscraping 
+- **Sales Dashboard (Power BI)** – Interactive insights from retail dataset  
+- **More Coming Soon...**
+
+> "Code. Analyze. Repeat. Every line is a step closer to your dream company."
