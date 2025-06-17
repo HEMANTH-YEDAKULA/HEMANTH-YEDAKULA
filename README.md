@@ -1,4 +1,4 @@
-# Hi there, I'm Hemanth 👋
+# Hi I'm Hemanth 👋
 
 🎓 Final-year B.Tech CSE student | Data Science Specialization  
 💻 Aspiring Software Developer | Exploring Data science and machine learning 
